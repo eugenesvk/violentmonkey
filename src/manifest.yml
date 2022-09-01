@@ -65,3 +65,5 @@ browser_specific_settings:
   gecko:
     id: '{aecec67f-0d10-4fa7-b7c7-609a2db280cf}'
     strict_min_version: '58.0'
+
+"key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxKOOuW5tPwR6QqbavvKzJ91y/9SPAOnxKeDBtiYisLpoEvuMMAIVYUfxWJ3Su6UvOgxdKAA0OL58PpODXa4DCbDZZOL+BmJJbhS3feYYA3fd6cHFTzi9wAKCK6dUWEA6coAIEsARG1oIvu47Th7rReZu89gLI1h5a54uAyjoFmvZxO7za5GxNjwNzj4aM1oG25ofqeMh/By8qduR5XvECqKIhaeqsysuqvU8QTK4s3l4FYiNmwooSYXw/EQ34FXVoIPs0i7BxfCfoLNPnt3LmqG1SV95zIuhHYRc4YwodNLKoIn+Cf6A30x/RgQ/UU5tUfcUQK/MuVlDd2DSbSMgSQIDAQAB"
