@@ -115,5 +115,6 @@
     ],
     "testEnvironment": "./test/mock/env.js"
   },
-  "beta": 3
+  "beta": 3,
+  "packageManager": "yarn@3.2.1"
 }
